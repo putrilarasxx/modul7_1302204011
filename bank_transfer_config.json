@@ -1,0 +1,21 @@
+{
+  "config1": {
+    "en": "Please insert the amount of money to transfer:",
+    "id": "Masukkan jumlah uang yang akan di transfer:"
+  },
+  "config2": "Select transfer method / Pilih metode transfer: ",
+  "config3": 6500,
+  "config4": 15000,
+  "config5": [
+    "RTO (real-time)",
+    "SKN",
+    "RTGS",
+    "BI FAST",
+    "yes",
+    "no",
+    "ya",
+    "tidak"
+  ],
+  "config6": [],
+  "config7": []
+}
